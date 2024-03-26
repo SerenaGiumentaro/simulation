@@ -1,0 +1,6 @@
+Danni e Riparazioni: In biologia, i tilacoidi possono essere danneggiati da condizioni di luce eccessiva. Potresti incorporare una dinamica dove 
+l'organello "fotosensibile" può diventare meno efficiente o danneggiato se esposto a troppa luce, richiedendo alla cellula di spendere risorse per
+ ripararlo.
+ Contesto della Replicazione: I mitocondri tendono a replicarsi in risposta a un aumento del fabbisogno energetico della cellula. Potresti
+ introdurre una logica che aumenta la probabilità di replicazione dei mitocondri quando la cellula è più attiva o quando ha più risorse disponibili.
+ l'apparato di golgi rende più efficieti gli enzimi
